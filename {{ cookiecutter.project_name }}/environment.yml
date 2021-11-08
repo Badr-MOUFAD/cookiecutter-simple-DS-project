@@ -1,0 +1,22 @@
+name: project-dev-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - jupyter
+  - jupytext
+  # data
+  - pandas
+  - numpy
+  # ML
+  - scikit-learn
+  - torch
+  - tensorflow
+  - scipy
+  - nltk
+  - spacy
+  # graphics
+  - matplotlib
+  - plotly
+  - seaborn

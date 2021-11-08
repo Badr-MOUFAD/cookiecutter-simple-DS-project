@@ -9,7 +9,7 @@ def say_hi(name: str) -> None:
 
     Examples
     --------
-    >>> from py_scripts.test_module import say_hi
+    >>> from py_scripts.script_1 import say_hi
     >>> say_hi("Badr MOUFAD")
     Hi Badr MOUFAD!
     """
