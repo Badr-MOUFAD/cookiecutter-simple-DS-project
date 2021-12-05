@@ -4,7 +4,7 @@ A simple template project to stucture your Data Science projects.
 
 This template is inspired by "cookiecutter data science" to provide an entry-level structure to organize data science projects.
 
-Check my article [It's time to structure your data science project](https://towardsdatascience.com/its-time-to-structure-your-data-science-project-1fa064fbe46) to find out more about "Simple DS project", namely the motivation behind it as well as the purpose of every component of its structure.
+Check my article ["It's time to structure your data science project"](https://towardsdatascience.com/its-time-to-structure-your-data-science-project-1fa064fbe46) to find out more about "Simple DS project", namely the motivation behind it as well as the purpose of every component of its structure.
 
 
 
